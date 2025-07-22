@@ -1,4 +1,4 @@
-# This script is hosted on https://get.activated.win for https://massgrave.dev
+
 
 $troubleshoot = 'https://massgrave.dev/troubleshoot'
 if ($ExecutionContext.SessionState.LanguageMode.value__ -ne 0) {
